@@ -1,0 +1,21 @@
+{
+  "name": "STARFALL: Expedition Zero",
+  "version": "0.2.0",
+  "engine": "Godot 4.7.x",
+  "orientation": "landscape",
+  "entry_scene": "res://scenes/Main.tscn",
+  "assets": "procedural",
+  "features": [
+    "survival",
+    "waves",
+    "bosses",
+    "skill_tree",
+    "crafting",
+    "inventory",
+    "building",
+    "quests",
+    "save_load",
+    "minimap",
+    "mobile_touch"
+  ]
+}
